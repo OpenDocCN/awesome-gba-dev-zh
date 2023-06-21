@@ -54,7 +54,7 @@
 ## 文章
 
 *   [Gameboy 高级资源管理](https://www.gamasutra.com/view/feature/131491/gameboy_advance_resource_management.php)-GBA 各内存区域的分配技术
-*   [管理GameBoyAdvance 上的精灵 Cel VRAM](https://pineight.com/gba/managing-sprite-vram.txt) 打开——动画精灵的 VRAM 流方法分析
+*   [管理 GameBoyAdvance 上的精灵 Cel VRAM](https://pineight.com/gba/managing-sprite-vram.txt) 打开——动画精灵的 VRAM 流方法分析
 *   [使用 Beepbox 进行 GBA 音乐创作](https://rentry.org/beepbox-gba-music)
 
 # 软件开发
@@ -137,7 +137,7 @@
 
 ## 逆向工程
 
-*   [逆向工程一个 GameBoyAdvance游戏](https://medium.com/@bruno.macabeus/reverse-engineering-a-gameboy-advance-game-introduction-ec185bd8e02)——一系列详细的帖子以及关于开发一个[关卡编辑器](https://github.com/macabeus/klo-gba.js) 为 *Klonoa:梦想帝国*
+*   [逆向工程一个 GameBoyAdvance 游戏](https://medium.com/@bruno.macabeus/reverse-engineering-a-gameboy-advance-game-introduction-ec185bd8e02)——一系列详细的帖子以及关于开发一个[关卡编辑器](https://github.com/macabeus/klo-gba.js) 为 *Klonoa:梦想帝国*
 *   [口袋妖怪红宝石](https://github.com/pret/pokeruby) - C 编程语言注释口袋妖怪红宝石的反汇编
 
 ## 历史链接
